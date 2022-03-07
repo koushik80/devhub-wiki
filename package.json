@@ -24,15 +24,9 @@
     "uid-safe": "^2.1.5",
     "web-vitals": "^2.1.4"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/auth0-blog/nextjs-passport.git"
-  },
+  
   "keywords": [],
-  "bugs": {
-    "url": "https://github.com/auth0-blog/nextjs-passport/issues"
-  },
-  "homepage": "https://github.com/auth0-blog/nextjs-passport#readme",
+  
   "scripts": {
     "start": "node server",
     "build": "next build",
